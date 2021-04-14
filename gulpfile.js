@@ -13,7 +13,7 @@ const webp = require('gulp-webp');
 const paths = {
     css:'css/**/*.css',
     js: 'js/**/*.js',
-    imagenes: 'images/**/*'
+    imagenes: 'build/img/**/*'
 }
 
 // css es una función que se puede llamar automaticamente
